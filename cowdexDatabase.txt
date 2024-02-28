@@ -1,0 +1,34 @@
+0
+Highland Cattle
+Highland cattle are an ancient Scottish breed and the oldest registered cattle breed.
+They are native to the areas of Scotland, close to the Arctic circle.
+Highland cattle can withstand harshest conditions and seem to be immune to everything.
+They live longer and produce more calves than other breeds.
+The cattle have double coats, which help them endure extremely low temperatures.
+END
+1
+Holstein
+The modern Holstein traces its ancestry to the Netherlands.
+More than 22 million animals are registered in the Holstein Association's database, comprising nearly 20 percent of all U.S. dairy cattle.
+Born as 90-pound calves, the mature Holstein cow grows to about 1,500 pounds and stands 58 inches at the shoulder.
+It was a Holstein cow in Wisconsin that set the single-lactation national milk production record of 77,480 pounds, or 9,009 gallons, in 365 days.
+In 1852, Winthrop Chenery, a Massachusetts breeder, purchased a Holland cow from a Dutch sea captain who had used her to provide milk for his crew.
+END
+2
+Black Angus
+ngus bulls originated in Scotland in the Aberdeenshire area.
+Most Black Angus cattle are medium to large, naturally polled with large muscle content. Average body weight for bulls is about 1,870 pounds, while cows weigh in at 1,200.
+In order to qualify as Certified Angus Cows, cattle have to have certified genetic qualities, including a minimum of 51 percent solid black hide coloring, hence the term "Black Angus".
+END
+3
+Hereford Cattle
+All the way back to their ancient origins as the draught oxen and small red cattle of Roman Briton and Wales, Hereford breeders have sought to maximize beef yield and efficiency of production on either grass or grain.
+In 2013, a Hereford bull named C Miles McKee 2103 ET set the world record for a single cattle sale at $600,000.
+The Hereford is typically colored dark red to yellow with a white face, crest, and underline. White flanks and markings below the knees and hocks are also commonplace across the country.
+END
+4
+Japanese Wagyu
+In Japan, the breed maintains four groupings: Japanese Black, Japanese Brown, Japanese Shorthorn, and Japanese Polled. Prior to the 20th century, the Japanese Black cattle were considered the workhorses of that islands farms.
+Because of the limited exports, a number of downright hilarious myths have arisen to explain their high fat content. One of the more amusing is that Japanese farmers massage their cows while feeding them beer and playing classical music to help them relax.
+Wagyu literally translates as "Japanese Cow" (Wa = Japanese, Gyu = Cow).
+END
